@@ -4,4 +4,4 @@ Focused on the challenges that emerge as AI systems scale: adversarial robustnes
 
 Working primarily in `Rust` and `Python`, across both _systems-level development_ and _research_.
 
-[@o-austin](https://github.com/o-austin)
+&#8594; [@o-austin](https://github.com/o-austin)
